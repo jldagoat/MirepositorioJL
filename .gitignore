@@ -1,0 +1,13 @@
+# Archivos compilados de Java
+*.class
+out/
+
+# Archivos temporales de Word
+~$*
+*.tmp
+
+# Configuración de editores
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
